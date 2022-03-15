@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @larsa9
-- 🌱 I’m currently learning Kotlin
+- 👋 Hi, I’m Lars Erik
+- 🌱 I’m currently learning Kotlin/Android Development, by taking online courses, watching Tutorials etc. 
 
 
 
